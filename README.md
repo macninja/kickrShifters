@@ -3,7 +3,7 @@ Da Wahoo ikke tilbyder sattellit skiftere er dette mit forsøg på at lave dem.
 
 ## Dokumentation
 
-Kan findes på [Wiki](https://github.com/macninja/kickrSatelliteShifters/wiki)
+Kan findes på [Wiki](https://github.com/macninja/kickrShifters/wiki)
 
 ## Referencer
 
