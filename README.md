@@ -1,5 +1,5 @@
 # kickrSatelliteShifters
-Da Wahoo ikke tilbyder sattellit skiftere er dette mit forsøg på at lave dem.
+Da Wahoo ikke tilbyder satellit skiftere er dette mit forsøg på at lave dem.
 
 ## Dokumentation
 
