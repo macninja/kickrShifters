@@ -1,7 +1,7 @@
 # kickrSatelliteShifters
 Da Wahoo ikke tilbyder satellit skiftere er dette mit forsøg på at lave dem.
 
-![KSS](https://github.com/macninja/kickrShifters/blob/main/KSS.jpeg)
+![KSS](../main/KSS.jpeg)
 
 ## Dokumentation
 
